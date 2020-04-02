@@ -10,5 +10,5 @@ A python wrapper for wappalyzer's docker container to scan a list of endpoints a
 ## Usage:
 
 ```
-./python wappalyzer-docker-reporter.py <list_of_urls> <output.html>
+python wappalyzer-docker-reporter.py <list_of_urls> <output.html>
 ```

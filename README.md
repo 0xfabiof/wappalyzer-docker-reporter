@@ -1,0 +1,1 @@
+# wappalyzer-docker-reporter
